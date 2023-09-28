@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/goobric/goBookManagmentAPI/pkg/config"
+	"github.com/goobric/goBookManagementAPI/pkg/config"
 	"github.com/jinzhu/gorm"
 )
 
