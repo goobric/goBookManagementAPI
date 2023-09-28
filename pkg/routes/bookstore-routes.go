@@ -1,6 +1,9 @@
 package routes
 
-import "github.com/gorilla/mux"
+import (
+	"github.com/goobric/goBookManagementAPI/pkg/controllers"
+	"github.com/gorilla/mux"
+)
 
 // import (
 // 	"github.com/gorilla/mux"
